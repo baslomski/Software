@@ -33,7 +33,7 @@ namespace SDW
                     Connectionbuilder conn =  new Connectionbuilder("https://sdw-wsrest.ecb.europa.eu/service/data/EXR/M.USD.EUR.SP00.A");
                     // Display the Connection
                     Console.WriteLine("Connecting to {0}", conn.Retrieve());
-                    //Define the mime content
+                    //Define the mime content here
 
                     // Get the response from the Server
                     HttpWebResponse response = (HttpWebResponse)conn.BuildConnection().GetResponse ();
