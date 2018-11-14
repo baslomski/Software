@@ -1,0 +1,11 @@
+C:\Users\D60016\Software\SDW\bin\Debug\netcoreapp2.1\SDW.deps.json
+C:\Users\D60016\Software\SDW\bin\Debug\netcoreapp2.1\SDW.runtimeconfig.json
+C:\Users\D60016\Software\SDW\bin\Debug\netcoreapp2.1\SDW.runtimeconfig.dev.json
+C:\Users\D60016\Software\SDW\bin\Debug\netcoreapp2.1\SDW.dll
+C:\Users\D60016\Software\SDW\bin\Debug\netcoreapp2.1\SDW.pdb
+C:\Users\D60016\Software\SDW\obj\Debug\netcoreapp2.1\SDW.csprojAssemblyReference.cache
+C:\Users\D60016\Software\SDW\obj\Debug\netcoreapp2.1\SDW.csproj.CoreCompileInputs.cache
+C:\Users\D60016\Software\SDW\obj\Debug\netcoreapp2.1\SDW.AssemblyInfoInputs.cache
+C:\Users\D60016\Software\SDW\obj\Debug\netcoreapp2.1\SDW.AssemblyInfo.cs
+C:\Users\D60016\Software\SDW\obj\Debug\netcoreapp2.1\SDW.dll
+C:\Users\D60016\Software\SDW\obj\Debug\netcoreapp2.1\SDW.pdb
